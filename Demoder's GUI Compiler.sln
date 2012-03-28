@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demoders GUI Compiler", "Demoders GUI Compiler\Demoders GUI Compiler.csproj", "{5F84588B-5BC2-4375-A91A-D14F70A28706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demoders GUI Compiler (Console)", "Demoders GUI Compiler (Console)\Demoders GUI Compiler (Console).csproj", "{033367A9-6FBA-400F-BC79-C1A3540EA5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demoder.GUICompiler", "Demoder.GUICompiler\Demoder.GUICompiler.csproj", "{728258F3-54BC-453E-813F-7119B53E4761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F84588B-5BC2-4375-A91A-D14F70A28706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F84588B-5BC2-4375-A91A-D14F70A28706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F84588B-5BC2-4375-A91A-D14F70A28706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F84588B-5BC2-4375-A91A-D14F70A28706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033367A9-6FBA-400F-BC79-C1A3540EA5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033367A9-6FBA-400F-BC79-C1A3540EA5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033367A9-6FBA-400F-BC79-C1A3540EA5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033367A9-6FBA-400F-BC79-C1A3540EA5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728258F3-54BC-453E-813F-7119B53E4761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728258F3-54BC-453E-813F-7119B53E4761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728258F3-54BC-453E-813F-7119B53E4761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728258F3-54BC-453E-813F-7119B53E4761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
